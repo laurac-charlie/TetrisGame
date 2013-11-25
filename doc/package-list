@@ -1,0 +1,5 @@
+com.supinfo.tetris.controller
+com.supinfo.tetris.main
+com.supinfo.tetris.model
+com.supinfo.tetris.observer
+com.supinfo.tetris.view
